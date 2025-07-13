@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+
+    <!-- This allows the app to use cleartext HTTP connections (not HTTPS) -->
+    <base-config cleartextTrafficPermitted="true">
+
+        <!-- Trust system default CA certificates -->
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+
+    </base-config>
+
+</network-security-config>
