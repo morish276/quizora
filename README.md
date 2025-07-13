@@ -1,5 +1,3 @@
-# 📱 Quizora - Android Quiz App with PHP Backend
-
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/f66d8e40-42af-42c2-be33-d9975d7db49f" alt="Quizora App Icon" width="80" height="80"/></td>
