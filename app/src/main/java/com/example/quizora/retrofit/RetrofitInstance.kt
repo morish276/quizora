@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 class RetrofitInstance {
 
     // Base URL of the backend API (You should externalize this in production)
-    val baseurl = "http://192.168.29.121/quizora/" // ⚠ Replace before pushing to GitHub
+    val baseurl = "http://YOUR_API_ENDPOINT/quizora/"
 
     // Returns a configured Retrofit instance with Gson converter
     fun getRetrofitInstance(): Retrofit {
