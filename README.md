@@ -14,8 +14,7 @@
 - Dynamic quiz questions loaded via API
 - Score tracking and results display
 - Clean, dark-themed UI with Material Design
-- Offline/online-ready architecture
-- PHP backend for serving MCQs from MySQL
+- Simple PHP backend for serving MCQs from MySQL
 
 ---
 
